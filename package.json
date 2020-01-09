@@ -39,7 +39,7 @@
     "mongoose": "4.0.6",
     "morgan": "1.6.1",
     "multer": "0.1.8",
-    "notifier": "0.1.7",
+    "notifier": "0.2.0",
     "passport": "0.2.2",
     "passport-facebook": "2.0.0",
     "passport-github": "0.1.5",
