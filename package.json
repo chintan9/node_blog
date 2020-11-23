@@ -33,7 +33,7 @@
     "csurf": "1.8.3",
     "express": "4.13.1",
     "express-session": "1.11.3",
-    "forever": "0.14.2",
+    "forever": "3.0.4",
     "imager": "0.2.7",
     "method-override": "2.3.3",
     "mongoose": "4.0.6",
